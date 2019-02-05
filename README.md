@@ -1,2 +1,2 @@
-# Sorting_Algorithms
-This is a C++ program that sorts a given array of values using insertion sort or bubble sort
+# -csci24000_spring2017_A6
+The final Assignment

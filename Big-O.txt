@@ -1,0 +1,10 @@
+Bubble Sort - 
+For the Bubble Sort it runs through 2 seperate for loops. The Loops each run through a total of 
+49 times each. After some calculations each one of the loops is a n+1. Multiplying either side
+constitutes in a polynomial however because the sum is to infinity it ends up being N * N. Thus the 
+Big O Analysis ends up as N^2.
+
+Insertion Sort - 
+For the insertion sort also consists of 2 for loops. It increments a total of 49 times in both of them. 
+It gives the equation of (n+1) and (n+1) in both equations After taking the limit both of the equations
+go to n. After multiplying them together they get N^2.
